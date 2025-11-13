@@ -22,3 +22,19 @@ span{
     border-radius: 5px;
 
 }
+section{
+    display: flex;
+    justify-content: center;
+main{
+    display: flex;
+}
+
+div{
+    border: 1px seagreen;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+img{
+    width: 200px;
+}
